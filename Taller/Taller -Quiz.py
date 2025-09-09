@@ -40,7 +40,6 @@ adivinar= 0
 secreto = 4
 while adivinar != secreto :
     adivinar = int(input("Digite el numero a adivinar: "))
-    if adivinar == secreto:
-        print("Correcto")
+print("Correcto")
 # El programa debe seguir preguntando hasta que lo adivine.
 # Cuando lo logre, mostrar "¡Correcto!".

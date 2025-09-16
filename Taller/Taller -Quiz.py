@@ -29,17 +29,17 @@
 # #==============================================================================================
 # # 3.	Ciclo for
 # #Pide un número entero n.
-# num = int(input("Digite el numero a multiplicar:"))
-# for i in range(1, 11):
-#     print("Resultado:",i*num)
+#num = int(input("Digite el numero a multiplicar:"))
+#for i in range(1, 11):
+#    print("Resultado:",i*num)   
 #Muestra la tabla de multiplicar de ese número del 1 al 10.
 #==============================================================================================
 # 4.	Ciclo while
 # Crea un pequeño juego donde el estudiante debe adivinar un número secreto entre 1 y 5.
-adivinar= 0
-secreto = 4
-while adivinar != secreto :
-    adivinar = int(input("Digite el numero a adivinar: "))
-print("Correcto")
+# adivinar= 0
+# secreto = 4
+# while adivinar != secreto :
+#     adivinar = int(input("Digite el numero a adivinar: "))
+# print("Correcto")
 # El programa debe seguir preguntando hasta que lo adivine.
 # Cuando lo logre, mostrar "¡Correcto!".

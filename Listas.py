@@ -122,9 +122,4 @@ print("Magnitud 1:", magnitud)
 # Ejercicio 2
 A = np.array([1, 2, 2])
 magnitud = np.linalg.norm(A)
-print("Magnitud 2:", magnitud)
-
-# Ejercicio 3
-A = np.array([-6, -8, 0])
-magnitud = np.linalg.norm(A)
-print("Magnitud 3:", magnitud)
+print("Magni

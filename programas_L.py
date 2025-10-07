@@ -58,7 +58,7 @@ print("Volviste a:", pila[-1])
 
 # 1. Fila en un banco
 cola = []
-cola.append("Ana")
+cola.append("Monica")
 cola.append("Luis")
 cola.append("Marta")
 print("Primero en la fila:", cola[0])
